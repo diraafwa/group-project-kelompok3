@@ -4,98 +4,68 @@
     "paragraph": "Catering Makanan Tersertifikasi"
   },
   "About": {
-    "paragraph": " Berdiri 2010 di Bogor, Jawa Barat. Berawal dari pelayanan catering karyawan di PT. PRADJA PHARIN Citeureup Bogor, Jawa Barat.", 
-     "paragraph2":"Pelayanan Catering event-event kantor di PT.Daria Varia yang merupakan group PT.PRADJA PHARIN untuk kapasitas 800 porsi per hari.",
-     "paragraph3" : "Kami memiliki dapur dengan kapasitas produksi 3000 porsiper hari dengan fasilitas standard hygiene.",
-    "Why": [
-      "Tersertifikasi Halal MUI",
-      "Aman Bagi Kesehatan",
-      "Bahan Baku Berkualitas",
-      "Hasil Produksi Bermutu Tinggi"
-    ],
-    "Why2": [
-      "Pengiriman Tepat Waktu",
-      "Komitmen dengan Pelanggan",
-      "Meningkatkan Kepuasan Pelanggan"
-    ]
+    "paragraph": " Berdiri 2010 di Bogor, Jawa Barat. Berawal dari pelayanan catering karyawan di PT. PRADJA PHARIN Citeureup Bogor, Jawa Barat.",
+    "paragraph2": "Pelayanan Catering event-event kantor di PT.Daria Varia yang merupakan group PT.PRADJA PHARIN untuk kapasitas 800 porsi per hari.",
+    "paragraph3": "Kami memiliki dapur dengan kapasitas produksi 3000 porsiper hari dengan fasilitas standard hygiene.",
+    "Why": ["Tersertifikasi Halal MUI", "Aman Bagi Kesehatan", "Bahan Baku Berkualitas", "Hasil Produksi Bermutu Tinggi"],
+    "Why2": ["Pengiriman Tepat Waktu", "Komitmen dengan Pelanggan", "Meningkatkan Kepuasan Pelanggan"]
   },
   "Gallery": [
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "smallImage": "img/galeri/2.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "smallImage": "img/galeri/3.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "smallImage": "img/galeri/6.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "smallImage": "img/galeri/7.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "smallImage": "img/galeri/8.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "smallImage": "img/galeri/9.jpg"
     }
   ],
   "Services": [
     {
       "img": "img/layanan/cek2.png",
       "name": "Resepsi Pernikahan",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Paket Resepsi Pernikahan adalah Paket catering dalam resepsi pernikahan baik dengan gaya buffet prasmanan, ala carte atau sitting-dinner, menjamu para tamu undangan dengan menu hidangan lezat berkualitas tinggi.  Dapat menyesuaikan menu pesta pernikahan dengan selera dan bujet yang dimiliki."
     },
     {
       "img": "img/layanan/cek2.png",
       "name": "Khitanan",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Paket Khitanan adalah Paket catering dalam semua acara khitan (sunat).  Acara Khitanan tentunya membutuhkan konsumsi, mulai dari konsumsi nasi kotak ataupun jenis prasmanan.  Menyediakan paket catering nasi kotak dan paket catering prasmanan dengan harga yang terjangkau, sangat cocok digunakan untuk acara khitanan atau hajatan sunatan."
     },
     {
       "img": "img/layanan/cek2.png",
       "name": "Acara Seminar",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Paket Acara Seminar adalah Paket catering untuk peserta seminar yaitu seminar kantor, perusahan, maupun akademisi di kampus. Tentunya kegiatan-kegiatan ini membutuhkan jamuan atau hidangan agar acara semakin meriah dan tidak membosankan.Menu makanan untuk seminar ini juga dapat dihidangkan sebagai menu prasmanan rapat saat jam makan siang ataupun makan malam."
     },
     {
       "img": "img/layanan/cek2.png",
       "name": "Jamuan Makan Diklat",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Paket Jamuan Diklat adalah Paket catering untuk peserta diklat / pelatihan dalam bidang tertentu. Menu makanan untuk jamuan diklat ini berupa sajian snack / coffee break dan  sajian makan."
     },
     {
       "img": "img/layanan/cek2.png",
       "name": "Industrial Catering",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Paket Industrial Catering adalah Paket catering untuk sektor perhotelan, rumah sakit, dan manufaktur/pabrik. menyediakan menu makanan yang berkualitas dengan pelayanan terbaik untuk kenyamanan pelanggan."
     },
     {
       "img": "img/layanan/cek2.png",
       "name": "Snack Box dan Launch Box",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Paket Sanck Box dan Launch Box adalah paket untuk pelengkap konsumsi yang biasanya ada dalam sebuah acara, untuk meeting, gathering, arisan, selamatan rumah, peresmian gedung sampai dengan pengajian. Menyediakan pilihan kue yang beragam, dengan bahan-bahan terbaik sehingga rasa dan tampilan akan memuaskan tamu di acara anda."
     }
   ],
   "Testimonials": [
@@ -162,6 +132,30 @@
       "job": "Chef"
     }
   ],
+
+  "Artikel": [
+    {
+      "img": "img/13.jpg",
+      "penulis1": "Aria Rahman",
+      "judul1": "Menu Sehat Tapi Enak",
+      "isi_artikel1" : "ahsduqiahdanasjkhan",
+      "sumber1" : "http://skuzzaria.herokuapp.com/login.php"
+    },
+    {
+      "img": "img/9.jpg",
+      "penulis1": "Dira",
+      "judul1": "Menu Sehat Tapi Enak",
+      "isi_artikel1" : "ahsduqiahdanasjkhh",
+      "sumber1" : "https://santrikoding.com/tutorial-expressjs-dan-reactjs-5-menampilkan-data-di-reactjs"
+    },
+    {
+      "img": "img/10.jpg",
+      "penulis1": "Selvia",
+      "judul1": "Menu Sehat Tapi Enak",
+      "isi_artikel1" : "ahsduqiahdanasjh",
+      "sumber1" : "http://skuzzaria.herokuapp.com/login.php"
+    }
+  ],
   "Contact": {
     "address": "Jl. Atang Senjaya, Semplak Bar., Kec. Kemang, Bogor, Jawa Barat 16310. ",
     "phone": "(+62) 000000",
@@ -181,6 +175,5 @@
       "title": "Misi",
       "text": "Menyediakan makanan yang higienis, bergizi, halal, dan lezat. Memberikan pelayanan catering terbaik untuk berbagai kebutuhan office ataupun kebutuhan pernikahan."
     }
-    
   ]
 }
